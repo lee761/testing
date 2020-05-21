@@ -1,4 +1,4 @@
 function Test() {
-    console.log('hello');
+    console.log('grrr');
     console.log('ahhh');
 }
